@@ -1,0 +1,1 @@
+LANGS = ["English", "German"]
