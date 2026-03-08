@@ -2,6 +2,8 @@
 
 A simple Telegram bot that translates messages between two languages using Groq's LLM API.
 
+![screenshot](img/screenshot.png)
+
 ## Prerequisites
 
 - Python 3.12+
